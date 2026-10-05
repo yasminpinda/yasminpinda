@@ -249,9 +249,10 @@ Projeto de player musical desenvolvido com **C# e Windows Forms**, utilizando co
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=FFFFFF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasminpinda&bg_color=0D1117&color=FFFFFF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
+
 
 ---
 
@@ -259,7 +260,7 @@ Projeto de player musical desenvolvido com **C# e Windows Forms**, utilizando co
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yasminpinda&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
 
 </div>
 
@@ -273,31 +274,21 @@ Projeto de player musical desenvolvido com **C# e Windows Forms**, utilizando co
 
 </div>
 
+
 ---
 
 # `> CONNECT`
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/SEU_USUARIO">
+<a href="[https://www.linkedin.com/in/SEU_USUARIO](https://www.linkedin.com/in/yasmin-pinda?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
 
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
 
 </a>
 
-<a href="https://instagram.com/SEU_USUARIO">
 
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00F5FF"/>
-
-</a>
-
-<a href="mailto:SEU_EMAIL">
+<a href="yhelenamarinhopinda@gmail.com">
 
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
 
