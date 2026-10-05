@@ -281,12 +281,9 @@ Projeto de player musical desenvolvido com **C# e Windows Forms**, utilizando co
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/SEU_USUARIO](https://www.linkedin.com/in/yasmin-pinda?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<a href="https://github.com/yasminpinda"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/> </a>
 
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
-
-</a>
-
+<a href="https://www.linkedin.com/in/yasmin-pinda/"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/> </a>
 
 <a href="mailto:yhelenamarinhopinda@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
