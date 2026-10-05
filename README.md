@@ -172,7 +172,7 @@ Sistema de **estoque e vendas** desenvolvido para organização e gerenciamento 
 
 <br><br>
 
-<a href="https://github.com/SEU_USUARIO/Sistema-de-Estoque-e-Vendas-do-Mercado-Santana">
+<a href="[https://github.com/SEU_USUARIO/Sistema-de-Estoque-e-Vendas-do-Mercado-Santana](https://github.com/MillenaSantana/Sistema-de-Estoque-e-Vendas-do-Mercado-Santana)">
 
 <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=00f5ff"/>
 
