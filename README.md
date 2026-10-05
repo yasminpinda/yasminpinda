@@ -247,11 +247,14 @@ Projeto de player musical desenvolvido com **C# e Windows Forms**, utilizando co
 
 # `> ACTIVITY_GRAPH`
 
+# `> ACTIVITY_GRAPH`
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasminpinda&bg_color=0D1117&color=FFFFFF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+[![Yasmin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yasminpinda\&bg_color=0D1117\&color=FFFFFF\&line=00F5FF\&point=00F5FF\&area=true\&hide_border=true)](https://github.com/yasminpinda)
 
 </div>
+
 
 
 ---
@@ -260,9 +263,10 @@ Projeto de player musical desenvolvido com **C# e Windows Forms**, utilizando co
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yasminpinda&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+[![Yasmin's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yasminpinda\&theme=matrix\&no-frame=true\&no-bg=true\&margin-w=8\&row=1)](https://github.com/yasminpinda)
 
 </div>
+
 
 ---
 
