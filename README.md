@@ -288,10 +288,8 @@ Projeto de player musical desenvolvido com **C# e Windows Forms**, utilizando co
 </a>
 
 
-<a href="yhelenamarinhopinda@gmail.com">
-
+<a href="mailto:yhelenamarinhopinda@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
-
 </a>
 
 </div>
