@@ -214,7 +214,7 @@ Projeto de player musical desenvolvido com **C# e Windows Forms**, utilizando co
 # `> CURRENT_MISSION`
 
 ```bash
-┌──[SEU_NOME@github]─[~]
+┌──[yasminpinda@github]─[~]
 └─$ ./current_mission.sh
 
 [01] ████████████████████ 100%  Study ADS
