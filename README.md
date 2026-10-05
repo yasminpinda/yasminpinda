@@ -38,7 +38,7 @@
 
 ## 👩‍💻 Sobre Mim
 
-Olá! Eu sou **SEU_NOME** 👋
+Olá! Eu sou Yasmin Pinda 👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia, programação e desenvolvimento de soluções.
 
