@@ -22,7 +22,7 @@
 ║                    SYSTEM STATUS                    ║
 ╠══════════════════════════════════════════════════════╣
 ║                                                      ║
-║  USER       : SEU_NOME                              ║
+║  USER       : Yasmin Pinda                           ║
 ║  ROLE       : ADS Student / Developer               ║
 ║  LOCATION   : Brazil 🇧🇷                            ║
 ║  STATUS     : ONLINE ●                              ║
