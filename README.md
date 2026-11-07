@@ -1,6 +1,6 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f5ff&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20digital%20space&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f5ff&height=220&section=header&text=YASMIN%20PINDA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20digital%20space&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
@@ -8,7 +8,11 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=SYSTEM%20VISITS&color=00f5ff&style=for-the-badge" alt="Profile views"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="230" alt="Animated coding cat"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=yasminpinda&label=SYSTEM%20VISITS&color=00f5ff&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -23,15 +27,15 @@
 ╠══════════════════════════════════════════════════════╣
 ║                                                      ║
 ║  USER       : Yasmin Pinda                           ║
-║  ROLE       : ADS Student / Developer               ║
-║  LOCATION   : Brazil 🇧🇷                            ║
-║  STATUS     : ONLINE ●                              ║
-║  MODE       : LEARNING & BUILDING                  ║
+║  ROLE       : ADS Student / Developer                ║
+║  LOCATION   : Brazil                                 ║
+║  STATUS     : ONLINE ●                               ║
+║  MODE       : LEARNING & BUILDING                    ║
 ║                                                      ║
-║  > SYSTEM INITIALIZED                               ║
-║  > CREATIVITY ............... [██████████] 100%     ║
-║  > LEARNING ................. [█████████░]  90%     ║
-║  > CODE ..................... [████████░░]  80%     ║
+║  > SYSTEM INITIALIZED                                ║
+║  > CREATIVITY ............... [██████████] 100%      ║
+║  > LEARNING ................. [█████████░]  90%      ║
+║  > CODE ..................... [████████░░]  80%      ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
@@ -54,20 +58,20 @@ Meu objetivo é continuar aprendendo, criando projetos e construindo uma carreir
 
 ```text
 ╔══════════════════════════════════════════════════════╗
-║                 LEARNING SYSTEM                     ║
+║                 LEARNING SYSTEM                      ║
 ╠══════════════════════════════════════════════════════╣
 ║                                                      ║
-║  🎓 FORMAÇÃO                                        ║
-║  └─ Análise e Desenvolvimento de Sistemas           ║
+║  🎓 FORMAÇÃO                                         ║
+║  └─ Análise e Desenvolvimento de Sistemas            ║
 ║                                                      ║
-║  💻 TECNOLOGIAS                                     ║
+║  💻 TECNOLOGIAS                                      ║
 ║  ├─ C#                                               ║
 ║  ├─ HTML                                             ║
 ║  ├─ Python                                           ║
 ║  └─ MySQL                                            ║
 ║                                                      ║
 ║  🚀 FOCO                                             ║
-║  └─ Desenvolvimento de Sistemas                     ║
+║  └─ Desenvolvimento de Sistemas                      ║
 ║                                                      ║
 ║  STATUS: LEARNING...                                 ║
 ║                                                      ║
@@ -84,11 +88,11 @@ Meu objetivo é continuar aprendendo, criando projetos e construindo uma carreir
 
 ### 🧠 Atualmente estudando
 
-* 💻 **C#** — desenvolvimento de aplicações
-* 🌐 **HTML** — estruturação de páginas web
-* 🐍 **Python** — programação e desenvolvimento
-* 🗄️ **MySQL** — banco de dados
-* 🔧 **Git & GitHub** — versionamento e projetos
+- 💻 **C#** — desenvolvimento de aplicações
+- 🌐 **HTML** — estruturação de páginas web
+- 🐍 **Python** — programação e desenvolvimento
+- 🗄️ **MySQL** — banco de dados
+- 🔧 **Git & GitHub** — versionamento e projetos
 
 ---
 
@@ -139,75 +143,13 @@ Meu objetivo é continuar aprendendo, criando projetos e construindo uma carreir
 
 # `> SYSTEM_TOOLS`
 
-| Ferramenta            | Utilização                  |
-| --------------------- | --------------------------- |
-| 🐙 Git & GitHub       | Versionamento e colaboração |
-| 💻 Visual Studio Code | Desenvolvimento             |
-| 🟣 Visual Studio      | Desenvolvimento C#          |
-| 🗄️ MySQL             | Banco de dados              |
-| 🎨 Figma              | Prototipação e interfaces   |
-
----
-
-# `> FEATURED_PROJECTS`
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-## 🛒 Mercado Santana
-
-Sistema de **estoque e vendas** desenvolvido para organização e gerenciamento de produtos, categorias e vendas.
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-00f5ff?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<br><br>
-
-<a href="[https://github.com/SEU_USUARIO/Sistema-de-Estoque-e-Vendas-do-Mercado-Santana](https://github.com/MillenaSantana/Sistema-de-Estoque-e-Vendas-do-Mercado-Santana)">
-
-<img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=00f5ff"/>
-
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-## 🎵 Music Player
-
-Projeto de player musical desenvolvido com **C# e Windows Forms**, utilizando controles de reprodução e interface gráfica.
-
-<br>
-
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/WINDOWS_FORMS-00f5ff?style=for-the-badge"/>
-
-<br><br>
-
-<a href="https://github.com/SEU_USUARIO">
-
-<img src="https://img.shields.io/badge/VIEW_GITHUB-000000?style=for-the-badge&logo=github&logoColor=00f5ff"/>
-
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
+| Ferramenta | Utilização |
+|---|---|
+| 🐙 Git & GitHub | Versionamento e colaboração |
+| 💻 Visual Studio Code | Desenvolvimento |
+| 🟣 Visual Studio | Desenvolvimento C# |
+| 🗄️ MySQL | Banco de dados |
+| 🎨 Figma | Prototipação e interfaces |
 
 ---
 
@@ -232,8 +174,6 @@ Projeto de player musical desenvolvido com **C# e Windows Forms**, utilizando co
 
 # `> GITHUB_ANALYTICS`
 
-# `> GITHUB_ANALYTICS`
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminpinda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
@@ -242,20 +182,15 @@ Projeto de player musical desenvolvido com **C# e Windows Forms**, utilizando co
 
 </div>
 
-
 ---
-
-# `> ACTIVITY_GRAPH`
 
 # `> ACTIVITY_GRAPH`
 
 <div align="center">
 
-[![Yasmin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yasminpinda\&bg_color=0D1117\&color=FFFFFF\&line=00F5FF\&point=00F5FF\&area=true\&hide_border=true)](https://github.com/yasminpinda)
+[![Yasmin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yasminpinda&bg_color=0D1117&color=FFFFFF&line=00F5FF&point=00F5FF&area=true&hide_border=true)](https://github.com/yasminpinda)
 
 </div>
-
-
 
 ---
 
@@ -263,10 +198,9 @@ Projeto de player musical desenvolvido com **C# e Windows Forms**, utilizando co
 
 <div align="center">
 
-[![Yasmin's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yasminpinda\&theme=matrix\&no-frame=true\&no-bg=true\&margin-w=8\&row=1)](https://github.com/yasminpinda)
+[![Yasmin's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yasminpinda&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/yasminpinda)
 
 </div>
-
 
 ---
 
@@ -274,10 +208,9 @@ Projeto de player musical desenvolvido com **C# e Windows Forms**, utilizando co
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
 
 </div>
-
 
 ---
 
@@ -285,9 +218,13 @@ Projeto de player musical desenvolvido com **C# e Windows Forms**, utilizando co
 
 <div align="center">
 
-<a href="https://github.com/yasminpinda"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/> </a>
+<a href="https://github.com/yasminpinda">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+</a>
 
-<a href="https://www.linkedin.com/in/yasmin-pinda/"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/> </a>
+<a href="https://www.linkedin.com/in/yasmin-pinda/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
+</a>
 
 <a href="mailto:yhelenamarinhopinda@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
@@ -302,7 +239,7 @@ Projeto de player musical desenvolvido com **C# e Windows Forms**, utilizando co
 ```text
 ╔════════════════════════════════════════════════════╗
 ║                                                    ║
-║       "THE FUTURE IS BUILT, NOT PREDICTED."       ║
+║       "THE FUTURE IS BUILT, NOT PREDICTED."        ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
 ```
