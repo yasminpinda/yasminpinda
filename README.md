@@ -8,10 +8,6 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="230" alt="Animated coding cat"/>
-
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=yasminpinda&label=SYSTEM%20VISITS&color=00f5ff&style=for-the-badge" alt="Profile views"/>
 
 </div>
